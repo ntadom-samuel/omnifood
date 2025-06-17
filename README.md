@@ -21,8 +21,8 @@ Web application/Design Project
 ## Features
 - [x] Responsive
 
-## Video
-See Website: <a href="https://omnifood-irentadom.netlify.app/">Omnifood</a>
+## Website
+<a href="https://omnifood-irentadom.netlify.app/">Omnifood</a>
 
   
 ## Notes
